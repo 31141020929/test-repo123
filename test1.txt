@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is F0F7-41B5
-
- Directory of C:\Users\tuan\Desktop\Project
-
-07/24/2021  08:22 PM    <DIR>          .
-07/24/2021  08:22 PM    <DIR>          ..
-07/24/2021  08:22 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  37,438,697,472 bytes free
+change 1
